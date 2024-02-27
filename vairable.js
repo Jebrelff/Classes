@@ -209,17 +209,63 @@
 // console.log(("Ebrahim">"Esmail") && ("Ebrahim">"Esmail"));
 
 
-let a = 0;
-console.log(a);
+// let birth = 1980;
+// let feature = 2040;
+// let difference = birth - feature;
 
-function coolFunction() {
-    let b = 2;
-    console.log(`a = ${a}, b = ${b}.`);
-    return a + b;
-}
+// console.log("the difference of birth and feature" + difference);
 
-a += 1;
-console.log(a);
+// let age = 25;
+// let mixage = 35;
+// let estimate = age + mixage;
 
-coolFunction();
-console.log(b);
+// console.log("tme estimate of age and mixage" + estimate);
+
+// let NNperday = 5;
+// let Xpermonth = 150;
+// let peryear = 12 * Xpermonth;
+
+// console.log("the value of 12 * Xpermonth" + peryear);
+
+
+// console.log((5 <= 8) && (1 > 3));
+// console.log((5 >= 8));
+// console.log((5 <= 8));
+
+
+
+// console.log(1 + 2);
+// console.log(10 - 5);
+// console.log(2 * 3);
+// console.log(12 / 4);
+
+// console.log(1 === 1);
+// console.log(1 !== 2);
+// console.log(10 > 5);
+// console.log(2 < 5);
+
+
+// console.log(10 >= 10);
+// console.log(2 <= 5);
+// console.log(true && true);
+
+
+// let x = 10;
+// let y = 5;
+//  x += y;
+
+// console.log(x);
+
+let x = 10;
+let y = 5;
+ x-=5;
+
+ console.log(x);
+
+ x/=5;
+
+ console.log(x);
+
+ x*=5;
+ 
+ console.log(x);

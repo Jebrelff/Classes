@@ -1,0 +1,45 @@
+#shuttleBackground {
+    background-color: green;
+    display: inline-block;
+    height: 80%;
+    width: 40%;
+    position: relative;
+}
+
+#flightStatus {
+    color: green;
+}
+
+#flightDisplay {
+    text-align: center; 
+    height: 400px; 
+    width: 100%;
+}
+
+#spaceShuttleHeight {
+    display: inline-block;
+}
+#takeoff{
+    text-align: center;  
+}
+
+.center-block {
+    text-align: center; 
+    display: inline-block;
+}
+
+.centered {
+    text-align: center;
+}
+#rocketd{
+    align-self: center;
+    vertical-align: middle;
+    border-top: antiquewhite;
+    border-color: antiquewhite;
+    border-width: 30px;
+    border-style: dotted;
+}
+#shuttleBackground{
+    align-items: center;
+    
+}
